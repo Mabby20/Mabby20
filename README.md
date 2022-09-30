@@ -1,7 +1,7 @@
 <h2> Hello there and Welcome to my README :slightly_smiling_face:</h2>
 <img align='right' src='https://media.giphy.com/media/dYl85H1KNittSriFyH/giphy.gif' width='200'>
 <h3>About me: :boy:</h3>
-<p>👋My name is Pavel, and I'm 27.</p>
+<p>👋My name is Pavel, and I'm 28.</p>
 <p>🌱I'm a novice frontend developer, living in Russia in St.Petersburg.</p>
 <p>:runner:In my free time I like to go hiking, fishing and cycling.</p>
 <p>:green_book:I'm currently studying at Hexlet programming school.</p>
