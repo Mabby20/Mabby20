@@ -1,14 +1,5 @@
-<style>
-   table {
-    width: 300px;
-    margin: auto;
-   }
-    th {
-    background-color: black;
-    }
-  </style>
 <div align="center">
-<img width="100%" src="./assets/head.png" alt="contact">
+<img width="100%" src="./assets/headUpdate.png.png" alt="contact">
 </div>
 
 ### About me: :boy:
@@ -18,7 +9,7 @@
 
 <h3 align="center"> My stack</h3>
 
-<table margin="0 auto">
+<table style="margin: 0 auto; width: 300px;">
   <thead>
     <tr>
       <th>Know</th>
