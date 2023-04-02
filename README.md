@@ -7,19 +7,49 @@ My name is Pavel, and I'm 28.
 :runner:In my free time I like to go hiking, fishing and cycling.  
 :green_book:I'm currently studying at Hexlet Programming School. I did three projects out of four. I will finish my studies in May.
 
-### My stack
-
-| **Know**   | **Study**      | **Tools** |
-|------------|----------------|-----------|
-| JavaScript | React          | Git       |
-| HTML5      | Redux          | GitHub    |
-| CSS3       | Redux Toolkit  | WebsStorm |
-| Webpack    | Bootstrap      | Zsh       |
-| i18next    |
-| Jest       |
-| DOM        |
-
-
+<h3 align="center"> My stack</h3>
+<div>
+<table style="margin: 0 auto;">
+  <thead>
+    <tr>
+      <th>Know</th>
+      <th>Study</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>JavaScript</td>
+      <td>React</td>
+      <td>Git</td>
+    </tr>
+    <tr>
+      <td>HTML5</td>
+      <td>Redux</td>
+      <td>GitHub</td>
+    </tr>
+    <tr>
+      <td>CSS3</td>
+      <td>Redux Toolkit</td>
+      <td>WebStorm</td>
+    </tr>
+    <tr>
+      <td>Webpack</td>
+      <td>Bootstrap</td>
+      <td>Zsh</td>
+    </tr>
+    <tr>
+      <td>i18next</td>
+    </tr>
+    <tr>
+      <td>Jest</td>
+    </tr>
+    <tr>
+      <td>DOM</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 <h3 align="center">Some of my projects: :open_file_folder:</h3>
 <div align="center">
 
