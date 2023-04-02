@@ -1,29 +1,31 @@
-<h2> Hello there and Welcome to my README :slightly_smiling_face:</h2>
-<img align='right' src='https://media.giphy.com/media/dYl85H1KNittSriFyH/giphy.gif' width='200'>
-<h3>About me: :boy:</h3>
-<p>👋My name is Pavel, and I'm 28.</p>
-<p>🌱I'm a novice frontend developer, living in Russia in St.Petersburg.</p>
-<p>:runner:In my free time I like to go hiking, fishing and cycling.</p>
-<p>:green_book:I'm currently studying at Hexlet programming school.</p>
-<h3 align="center">Languages: :page_facing_up:</h3>
 <div align="center">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+<img width="100%" src="./assets/head.png" alt="contact">
 </div>
-<h3 align="center">Tools I use: :hammer:</h3>
-<div align="center">
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=WebStorm)
-</div>
+### About me: :boy:
+My name is Pavel, and I'm 28.  
+:runner:In my free time I like to go hiking, fishing and cycling.  
+:green_book:I'm currently studying at Hexlet Programming School. I did three projects out of four. I will finish my studies in May.
+
+### My stack
+
+| **Know**   | **Study**      | **Tools** |
+|------------|----------------|-----------|
+| JavaScript | React          | Git       |
+| HTML5      | Redux          | GitHub    |
+| CSS3       | Redux Toolkit  | WebsStorm |
+| Webpack    | Bootstrap      | Zsh       |
+| i18next    |
+| Jest       |
+| DOM        |
+
+
 <h3 align="center">Some of my projects: :open_file_folder:</h3>
 <div align="center">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mabby20&repo=frontend-project-44)](https://github.com/Mabby20/frontend-project-44)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mabby20&repo=frontend-project-46)](https://github.com/Mabby20/frontend-project-46)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mabby20&repo=frontend-project-11)](https://github.com/Mabby20/frontend-project-11)
 </div>
 <h3 align="center">Open Source Work Stats 💻</h3>
 <div align="center">
