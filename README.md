@@ -1,15 +1,24 @@
+<style>
+   table {
+    width: 300px;
+    margin: auto;
+   }
+    th {
+    background-color: black;
+    }
+  </style>
 <div align="center">
 <img width="100%" src="./assets/head.png" alt="contact">
 </div>
 
 ### About me: :boy:
-My name is Pavel, and I'm 28.  
-:runner:In my free time I like to go hiking, fishing and cycling.  
-:green_book:I'm currently studying at Hexlet Programming School. I did three projects out of four. I will finish my studies in May.
+- My name is Pavel, and I'm 28.  
+- :runner:In my free time I like to go hiking, fishing and cycling.  
+- :green_book:I'm currently studying at Hexlet Programming School. I did three projects out of four. I will finish my studies in May.
 
 <h3 align="center"> My stack</h3>
-<div>
-<table style="margin: 0 auto;">
+
+<table margin="0 auto">
   <thead>
     <tr>
       <th>Know</th>
@@ -39,17 +48,23 @@ My name is Pavel, and I'm 28.
       <td>Zsh</td>
     </tr>
     <tr>
-      <td>i18next</td>
+        <td>i18next</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
-      <td>Jest</td>
+        <td>Jest</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
-      <td>DOM</td>
+        <td>DOM</td>
+        <td></td>
+        <td></td>
     </tr>
   </tbody>
 </table>
-</div>
+
 <h3 align="center">Some of my projects: :open_file_folder:</h3>
 <div align="center">
 
