@@ -11,11 +11,16 @@
 - My name is Pavel, and I'm 28.  
 - :runner:In my free time I like to go hiking, fishing and cycling.  
 - :green_book:I'm currently studying at Hexlet Programming School. I did three projects out of four. I will finish my studies in May.
-- wave My personal [blog](https://t.me/jr_FrontEnd_blog)
+- :wave: My personal [blog](https://t.me/jr_FrontEnd_blog)
 
 <h3 align="center"> My stack</h3>
-
-<table style="margin: 0 auto; width: 300px;">
+<style>
+    table {
+        margin: 0 auto;
+        width: 300px;
+    }
+</style>
+<table>
   <thead>
     <tr>
       <th>Know</th>
