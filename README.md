@@ -1,11 +1,17 @@
 <div align="center">
-<img width="100%" src="./assets/headUpdate.png.png" alt="contact">
+<img width="100%" src="./assets/headUpdate.png" alt="contact">
+</div>
+
+<div align="center">
+<img src="https://www.codewars.com/users/Mabby20/badges/micro"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=Mabby20&left_color=gray&right_color=orange"/>
 </div>
 
 ### About me: :boy:
 - My name is Pavel, and I'm 28.  
 - :runner:In my free time I like to go hiking, fishing and cycling.  
 - :green_book:I'm currently studying at Hexlet Programming School. I did three projects out of four. I will finish my studies in May.
+- wave My personal [blog](https://t.me/jr_FrontEnd_blog)
 
 <h3 align="center"> My stack</h3>
 
@@ -63,11 +69,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mabby20&repo=frontend-project-46)](https://github.com/Mabby20/frontend-project-46)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mabby20&repo=frontend-project-11)](https://github.com/Mabby20/frontend-project-11)
 </div>
-<h3 align="center">Open Source Work Stats 💻</h3>
-<div align="center">
 
-![Mabby's Github stats](https://github-readme-stats.vercel.app/api?username=Mabby20&show_icons=true)
-</div>
 <h3 align="center">Find me: :mag:</h3>
 <div align="center">
 <a href="https://github.com/Mabby20" target="_blank"><img alt="Github" 
