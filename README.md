@@ -14,52 +14,107 @@
 - :wave: My personal [blog](https://t.me/jr_FrontEnd_blog)
 
 <h3 align="center"> My stack</h3>
-<table style="margin: 0 auto">
-  <thead>
-    <tr>
-      <th>Know</th>
-      <th>Study</th>
-      <th>Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>JavaScript</td>
-      <td>React</td>
-      <td>Git</td>
-    </tr>
-    <tr>
-      <td>HTML5</td>
-      <td>Redux</td>
-      <td>GitHub</td>
-    </tr>
-    <tr>
-      <td>CSS3</td>
-      <td>Redux Toolkit</td>
-      <td>WebStorm</td>
-    </tr>
-    <tr>
-      <td>Webpack</td>
-      <td>Bootstrap</td>
-      <td>Zsh</td>
-    </tr>
-    <tr>
-        <td>i18next</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Jest</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>DOM</td>
-        <td></td>
-        <td></td>
-    </tr>
-  </tbody>
-</table>
+
+<div align="center">
+
+| Item         | Price | # In stock |
+|--------------|:-----:|-----------:|
+| Juicy Apples |  1.99 |        739 |
+| Bananas      |  1.89 |          6 |
+
+</div>
+
+[//]: # (<table style="margin: 0 auto">)
+
+[//]: # (  <thead>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <th>Know</th>)
+
+[//]: # (      <th>Study</th>)
+
+[//]: # (      <th>Tools</th>)
+
+[//]: # (    </tr>)
+
+[//]: # (  </thead>)
+
+[//]: # (  <tbody>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <td>JavaScript</td>)
+
+[//]: # (      <td>React</td>)
+
+[//]: # (      <td>Git</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <td>HTML5</td>)
+
+[//]: # (      <td>Redux</td>)
+
+[//]: # (      <td>GitHub</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <td>CSS3</td>)
+
+[//]: # (      <td>Redux Toolkit</td>)
+
+[//]: # (      <td>WebStorm</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <td>Webpack</td>)
+
+[//]: # (      <td>Bootstrap</td>)
+
+[//]: # (      <td>Zsh</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr>)
+
+[//]: # (        <td>i18next</td>)
+
+[//]: # (        <td></td>)
+
+[//]: # (        <td></td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr>)
+
+[//]: # (        <td>Jest</td>)
+
+[//]: # (        <td></td>)
+
+[//]: # (        <td></td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr>)
+
+[//]: # (        <td>DOM</td>)
+
+[//]: # (        <td></td>)
+
+[//]: # (        <td></td>)
+
+[//]: # (    </tr>)
+
+[//]: # (  </tbody>)
+
+[//]: # (</table>)
 
 <h3 align="center">Some of my projects: :open_file_folder:</h3>
 <div align="center">
