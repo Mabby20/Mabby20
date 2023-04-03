@@ -17,104 +17,16 @@
 
 <div align="center">
 
-| Item         | Price | # In stock |
-|--------------|:-----:|-----------:|
-| Juicy Apples |  1.99 |        739 |
-| Bananas      |  1.89 |          6 |
+| Know       | Study         | Tools    |
+|:-----------|:--------------|:---------|
+| JavaScript | React         | Git      |
+| HTML5      | React hooks   | GitHub   |
+| CSS3       | Redux         | Webstrom |
+| Webpack    | Redux Toolkit | Zsh      |
+| Jest       | Bootstrap     |          |
+| DOM        |               |          |
 
 </div>
-
-[//]: # (<table style="margin: 0 auto">)
-
-[//]: # (  <thead>)
-
-[//]: # (    <tr>)
-
-[//]: # (      <th>Know</th>)
-
-[//]: # (      <th>Study</th>)
-
-[//]: # (      <th>Tools</th>)
-
-[//]: # (    </tr>)
-
-[//]: # (  </thead>)
-
-[//]: # (  <tbody>)
-
-[//]: # (    <tr>)
-
-[//]: # (      <td>JavaScript</td>)
-
-[//]: # (      <td>React</td>)
-
-[//]: # (      <td>Git</td>)
-
-[//]: # (    </tr>)
-
-[//]: # (    <tr>)
-
-[//]: # (      <td>HTML5</td>)
-
-[//]: # (      <td>Redux</td>)
-
-[//]: # (      <td>GitHub</td>)
-
-[//]: # (    </tr>)
-
-[//]: # (    <tr>)
-
-[//]: # (      <td>CSS3</td>)
-
-[//]: # (      <td>Redux Toolkit</td>)
-
-[//]: # (      <td>WebStorm</td>)
-
-[//]: # (    </tr>)
-
-[//]: # (    <tr>)
-
-[//]: # (      <td>Webpack</td>)
-
-[//]: # (      <td>Bootstrap</td>)
-
-[//]: # (      <td>Zsh</td>)
-
-[//]: # (    </tr>)
-
-[//]: # (    <tr>)
-
-[//]: # (        <td>i18next</td>)
-
-[//]: # (        <td></td>)
-
-[//]: # (        <td></td>)
-
-[//]: # (    </tr>)
-
-[//]: # (    <tr>)
-
-[//]: # (        <td>Jest</td>)
-
-[//]: # (        <td></td>)
-
-[//]: # (        <td></td>)
-
-[//]: # (    </tr>)
-
-[//]: # (    <tr>)
-
-[//]: # (        <td>DOM</td>)
-
-[//]: # (        <td></td>)
-
-[//]: # (        <td></td>)
-
-[//]: # (    </tr>)
-
-[//]: # (  </tbody>)
-
-[//]: # (</table>)
 
 <h3 align="center">Some of my projects: :open_file_folder:</h3>
 <div align="center">
@@ -126,8 +38,6 @@
 
 <h3 align="center">Find me: :mag:</h3>
 <div align="center">
-<a href="https://github.com/Mabby20" target="_blank"><img alt="Github" 
-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://t.me/Mabbyy94" target="_blank"><img alt="Telegram" 
 src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/pavel-kolotiy-b6042924b/" target="_blank"><img alt="LinkedIn" 
