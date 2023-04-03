@@ -31,9 +31,9 @@
 <h3 align="center">Some of my projects: :open_file_folder:</h3>
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mabby20&repo=frontend-project-44)](https://github.com/Mabby20/frontend-project-44)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mabby20&repo=frontend-project-46)](https://github.com/Mabby20/frontend-project-46)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mabby20&repo=frontend-project-11)](https://github.com/Mabby20/frontend-project-11)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mabby20&repo=Rss-Reader)](https://github.com/Mabby20/Rss-Reader)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mabby20&repo=Difference-calculator)](https://github.com/Mabby20/Difference-calculator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mabby20&repo=Brain-Games)](https://github.com/Mabby20/Brain-Games)
 </div>
 
 <h3 align="center">Find me: :mag:</h3>
