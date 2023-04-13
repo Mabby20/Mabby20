@@ -21,7 +21,7 @@
 |:-----------|:--------------|:---------|
 | JavaScript | React         | Git      |
 | HTML5      | React hooks   | GitHub   |
-| CSS3       | Redux         | Webstrom |
+| CSS3       | Redux         | Webstorm |
 | Webpack    | Redux Toolkit | Zsh      |
 | Jest       | Bootstrap     |          |
 | DOM        |               |          |
