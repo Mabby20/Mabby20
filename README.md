@@ -4,7 +4,7 @@
 
 <div align="center">
 <img src="https://www.codewars.com/users/Mabby20/badges/micro"/>
-<img src="https://visitor-badge.glitch.me/badge?page_id=Mabby20&left_color=gray&right_color=orange"/>
+<img src="https://komarev.com/ghpvc/?username=Mabby20&color=orange"/>
 </div>
 
 ### About me: :boy:
