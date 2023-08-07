@@ -10,21 +10,25 @@
 ### About me: :boy:
 - My name is Pavel, and I'm 28.  
 - :runner:In my free time I like to go hiking, fishing and cycling.  
-- :green_book:I'm currently studying at Hexlet Programming School. I did three projects out of four. I will finish my studies in May.
-- :wave: My personal [blog](https://t.me/jr_FrontEnd_blog)
+- :green_book:I'm currently studying TypeScript and antd.
 
 <h3 align="center"> My stack</h3>
 
 <div align="center">
 
-| Know       | Study         | Tools    |
-|:-----------|:--------------|:---------|
-| JavaScript | React         | Git      |
-| HTML5      | React hooks   | GitHub   |
-| CSS3       | Redux         | Webstorm |
-| Webpack    | Redux Toolkit | Zsh      |
-| Jest       | Bootstrap     |          |
-| DOM        |               |          |
+| Know          | Study         | Tools    |
+|:--------------|:--------------|:---------|
+| JavaScript    | TypeScript    | Git      |
+| HTML5         | Antd          | Zsh      |
+| CSS3          |               | Webstorm |
+| Webpack       |               |          |
+| Jest          |               |          |
+| DOM           |               |          |
+| React         |               |          |
+| React hooks   |               |          |
+| Redux         |               |          |
+| Redux Toolkit |               |          |
+| Bootstrap     |               |          |
 
 </div>
 
