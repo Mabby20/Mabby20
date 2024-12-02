@@ -6,28 +6,23 @@
 <img src="https://www.codewars.com/users/Mabby20/badges/micro"/>
 <img src="https://komarev.com/ghpvc/?username=Mabby20&color=orange"/>
 </div>
-
-### About me: :boy:
-- My name is Pavel.  
-- :runner:In my free time I like to go hiking, fishing and cycling.
-
 <h3 align="center"> My stack</h3>
 
 <div align="center">
 
-| Know          | Study         | Tools    |
-|:--------------|:--------------|:---------|
-| JavaScript    | TypeScript    |          |
-| HTML5         |               |          |
-| CSS3          |               |          |
-| Webpack       |               |          |
-| Jest          |               |          |
-| DOM           |               |          |
-| React         |               |          |
-| React hooks   |               |          |
-| Redux         |               |          |
-| Redux Toolkit |               |          |
-| Bootstrap     |               |          |
+| Know          | Study         |
+|:--------------|:--------------|
+| JavaScript    | TypeScript    |
+| HTML5         |               |
+| CSS3          |               |
+| Webpack       |               |
+| Jest          |               |
+| DOM           |               |
+| React         |               |
+| React hooks   |               |
+| Redux         |               |
+| Redux Toolkit |               |
+| Bootstrap     |               |
 
 </div>
 
