@@ -8,9 +8,8 @@
 </div>
 
 ### About me: :boy:
-- My name is Pavel, and I'm 28.  
-- :runner:In my free time I like to go hiking, fishing and cycling.  
-- :green_book:I'm currently studying TypeScript and antd.
+- My name is Pavel.  
+- :runner:In my free time I like to go hiking, fishing and cycling.
 
 <h3 align="center"> My stack</h3>
 
@@ -18,9 +17,9 @@
 
 | Know          | Study         | Tools    |
 |:--------------|:--------------|:---------|
-| JavaScript    | TypeScript    | Git      |
-| HTML5         | Antd          | Zsh      |
-| CSS3          |               | Webstorm |
+| JavaScript    | TypeScript    |          |
+| HTML5         |               |          |
+| CSS3          |               |          |
 | Webpack       |               |          |
 | Jest          |               |          |
 | DOM           |               |          |
